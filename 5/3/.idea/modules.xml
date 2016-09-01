@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/swapBits.iml" filepath="$PROJECT_DIR$/swapBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverseBits.iml" filepath="$PROJECT_DIR$/reverseBits.iml" />
     </modules>
   </component>
 </project>
