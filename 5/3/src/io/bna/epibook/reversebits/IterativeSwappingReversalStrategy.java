@@ -6,7 +6,7 @@ import io.bna.epiBook.swapBits.XorIfDiffSwap;
 /**
  * Created by brand on 8/31/2016.
  */
-public class IterativeSwappingReversalStrategy {
+public class IterativeSwappingReversalStrategy implements BitReversalStrategy {
     SwapBitsStrategy swapper = new XorIfDiffSwap();
 
     public long reverse(long input) {
