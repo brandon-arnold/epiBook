@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$//bitwiseDiv.iml" filepath="$PROJECT_DIR$//bitwiseDiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitwiseDiv.iml" filepath="$PROJECT_DIR$/bitwiseDiv.iml" />
     </modules>
   </component>
 </project>
